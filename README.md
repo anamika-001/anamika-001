@@ -1,6 +1,6 @@
 
 <div>
-  <img height="100%" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRI4SklyM5NN440y21w8yl-yqFjqX4zturyg&usqp=CAU"> 
+  <img height="100%" src="https://media1.giphy.com/media/FPbnShq1h1IS5FQyPD/200w.webp?cid=ecf05e47zksrma4s512xlm9htu7rhegfdgslkrkcxo7wz8n8&rid=200w.webp"> 
   </div>
   i am web developer Self-motivated and hardworking fresher seeking for an opportunity to work in a challenging environment.
 
